@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplicacionDeContactos</string>
+    <string name="miscontactos">Mis Contactos</string>
+    <string name="agregarcontacto">Agregar Contacto</string>
+    <string name="regresar">Regresar</string>
+    <string name="foto">Foto</string>
+    <string name="texto">Texto</string>
+</resources>
